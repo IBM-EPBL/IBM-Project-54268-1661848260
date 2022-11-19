@@ -4,6 +4,7 @@
 ![smart abbarna](https://user-images.githubusercontent.com/113838152/202855784-7c55a7d9-5cb5-4950-a63d-00080b7e2d95.png)
 
 **### Build up smart agriculture using iot ### **
+
 Smart agriculture is a broad term that collects ag and food production practices powered by Internet of Things, big data and advanced analytics technology. When we talk about IoT, we generally refer to adding sensing, automation and analytics technology to modern agricultural processes. The most common IoT applications in smart agriculture are:
 
 🌾Sensor-based systems for monitoring crops, soil, fields, livestock, storage facilities, or basically any important factor that influences the production.
